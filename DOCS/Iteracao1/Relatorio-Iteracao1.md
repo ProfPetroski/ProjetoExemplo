@@ -16,6 +16,8 @@ Relatório das lições aprendidas de cada iteração: o que funcionou, o que n�
 |Moockups e storyboards | Luiz|
 
 
+
+
 ## Atividades realizadas
 - [x] Criar o repositório
 - [ ] ~~Moockups e storyboards~~
