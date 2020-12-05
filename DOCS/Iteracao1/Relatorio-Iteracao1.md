@@ -7,6 +7,8 @@ Relatório das lições aprendidas de cada iteração: o que funcionou, o que n�
 | Fim: |   04/12/2020|
 
 
+
+
 ## Atividades planejadas
 |Atividade| Responsável|
 |-|-|
