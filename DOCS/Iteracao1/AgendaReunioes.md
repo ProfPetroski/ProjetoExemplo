@@ -14,6 +14,9 @@ Ficam agendadas as reuniões Ordinárias da Equipe:
 - Assunto: Finalização da Iteração 1
 
 
+
+
+
 ### 11/12/2020
 - Horário: 21:00 (ou após a finalização da aula)
 - Local: \<Link do meet ou sala/servidor do aplicativo de comunicação >
