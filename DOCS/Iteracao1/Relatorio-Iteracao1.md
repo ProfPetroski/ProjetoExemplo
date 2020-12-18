@@ -9,6 +9,8 @@ Relatório das lições aprendidas de cada iteração: o que funcionou, o que n�
 
 
 
+
+
 ## Atividades planejadas
 |Atividade| Responsável|
 |-|-|
