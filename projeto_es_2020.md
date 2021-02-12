@@ -1,4 +1,4 @@
-![UEPG](img/uepg/uepg.png)
+![UEPG](https://raw.githubusercontent.com/ProfPetroski/ProjetoExemplo/master/DOCS/img/uepg.png)
 
  - ## Disciplina: Egenharia de Software
  - ### Professor: Luiz Pedro Petroski
