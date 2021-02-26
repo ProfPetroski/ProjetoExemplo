@@ -59,7 +59,7 @@ De 13/02/2021 a 05/03/2021
 -   Desenvolvimento
 -   Relatório da iteração 3
 
-Deadline da iteração 3: 05/03/2021
+Deadline da iteração 3: 05/03/2021 19:40 h
 -   _Avaliação parcial do projeto (Iterações 1, 2 e 3: nota do 3º Bimestre)_
 
 **Iteração 4**
