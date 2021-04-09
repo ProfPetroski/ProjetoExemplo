@@ -74,7 +74,7 @@ Deadline da iteração 4: 26/03/2021
 
 **Iteração 5**
 
-De 27/03/2021 a 16/04/2021
+De 27/03/2021 a 23/04/2021
 
 -   Finalização do desenvolvimento
 -   Criação de testes
@@ -84,7 +84,7 @@ De 27/03/2021 a 16/04/2021
 -   Vídeo de apresentação do software (+- 2 min)
 -   Relatório da Iteração 5
 
-Deadline da iteração 5: 16/04/2021
+Deadline da iteração 5: 23/04/2021 as 19:40
 
 
 #### Artefatos entregáveis (deliverables)
